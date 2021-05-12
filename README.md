@@ -1,4 +1,4 @@
-### Hi there 👋, Eu sou Breno
+### Oi 👋, Eu sou Breno
 um curioso sobre JS.
 
 Skills: ReactJS / React Native / JS / HTML / CSS
