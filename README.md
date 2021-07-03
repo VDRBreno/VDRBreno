@@ -5,7 +5,7 @@ um curioso sobre JS.
 
 - 🔭 Estou melhorando meu primeiro projeto, [ANIday](https://aniday.netlify.app)
 - 🌱 Aprendendo quase tudo, mas principalmente Front-End. 
-- ⚡ Fun fact: Já fez um bot para Discord? É legal! 😎 Minha lista de animes: [MyAnimeList](https://myanimelist.net/profile/VDRBreno) 
+- ⚡ Fun fact: Minha lista de animes: [MyAnimeList](https://myanimelist.net/profile/VDRBreno) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdrbreno&show_icons=true&theme=react&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdrbreno&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
