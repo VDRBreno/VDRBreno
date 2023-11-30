@@ -1,8 +1,6 @@
 ### Oi 👋, eu sou Breno
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) [<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='ReactJS' />](https://reactjs.org/) [<img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React Native'/>](https://reactnative.dev/)
-
-- ⚡ [MyAnimeList](https://myanimelist.net/profile/VDRBreno) 
+[<img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='NodeJs'/>](https://nodejs.org/en) [<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='TypeScript'/>](https://www.typescriptlang.org) [<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='ReactJS' />](https://reactjs.org/) [<img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React Native'/>](https://reactnative.dev/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VDRBreno&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
